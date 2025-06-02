@@ -48,7 +48,7 @@ public class Calculadora {
     }
 
     public double CalcularMedia(){
-        this.media = (nota1 + nota2 + nota1 + nota2) /4;
+        this.media = (nota1 + nota2 + nota3 + nota4) /4;
         return media;
     }
 }
